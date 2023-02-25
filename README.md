@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://www.instagram.com/_m.sakina/">
-    <img src="https://cdn.webrazzi.com/uploads/2021/10/instagram-253.png" alt="Instagram Badge" width="20" height="20"/>
+     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
