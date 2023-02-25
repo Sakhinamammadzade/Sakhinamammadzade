@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/_m.sakina/">
+    <img src="https://cdn.webrazzi.com/uploads/2021/10/instagram-253.png" alt="Instagram Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
