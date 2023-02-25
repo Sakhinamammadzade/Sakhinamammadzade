@@ -34,6 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" title="VisualStudio" alt="VS " width="40" height="40"/>&nbsp;
  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="CSharp" alt="c# " width="40" height="40">&nbsp;
@@ -56,6 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>&nbsp;
 
 </div>
+
 ---
 
 ### :fire: My Stats :
