@@ -3,7 +3,7 @@
   "/>
 </div>
 <div id="badges"  align="center">
-   <a href="(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakina-mammadzade-a770a2239/">
+   <a href="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakina-mammadzade-a770a2239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
