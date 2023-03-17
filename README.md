@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47zkr0mzstkpmvx67iommyzboe71o6h2ft5svoay3e&rid=giphy.gif&ct=g" width="600" height="400
+  <img src="[https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47zkr0mzstkpmvx67iommyzboe71o6h2ft5svoay3e&rid=giphy.gif&ct=g](https://www.youtube.com/watch?v=W2sHIS7_B44)" width="600" height="400
   "/>
 </div>
 <div id="badges"  align="center">
@@ -67,6 +67,5 @@
 ### 🖥️: Most Used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif]
-(https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
