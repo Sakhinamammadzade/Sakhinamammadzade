@@ -65,7 +65,7 @@
 ---
 
 ### 🖥️: Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://camo.githubusercontent.com/a1c830755150b54fd083131167cb07ce0ecc1061d6f9a84e86faf5d440b0d2cc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7275736c616e67756c69796576266c616e67735f636f756e743d38266c61796f75743d636f6d70616374)
 
 
 
