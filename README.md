@@ -18,7 +18,7 @@
 - [Mutable vs Immutable &lpar;everything is an object in python &rpar;](https://www.linkedin.com/posts/sakina-mammadzade_python3-holberton-pythonabrblog-activity-7161089322908086273-Q7O2?utm_source=share&utm_medium=member_desktop)
 - [A Comprehensive Beginner's Guide to Using the "ls .c" Command](https://www.linkedin.com/posts/sakina-mammadzade_holberton-linux-unix-activity-7119081341689692160-qaaU?utm_source=share&utm_medium=member_desktop)
 - [Understanding the Compilation process with GCC and C programs](https://www.linkedin.com/posts/sakina-mammadzade_linux-gcc-gnu-activity-7118382148486578176-25uR?utm_source=share&utm_medium=member_desktop)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
