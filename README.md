@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhinamammadzade&label=Profile%20views&color=0e75b6&style=flat" alt="sakhinamammadzade" /> </p>
+
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m.sakina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakina-mammadzade) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mammadzadesakhina) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@M_Sakinaa) 
@@ -25,8 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sakhinamammadzade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhinamammadzade&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhinamammadzade&label=Profile%20views&color=0e75b6&style=flat" alt="sakhinamammadzade" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
