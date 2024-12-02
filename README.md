@@ -3,7 +3,7 @@
  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m.sakina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakina-mammadzade) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mammadzadesakhina) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@M_Sakinaa) [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mammadzade_Sakina)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakina-mammadzade) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mammadzadesakhina) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@M_Sakinaa) [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mammadzade_Sakina)
 
 
 # 💻 Tech Stack:
